@@ -1,6 +1,7 @@
 # Promptopia - a Next.js 13 + Tailwind CSS Full Stack App
 
-Live version: https://nm-promptopia-next-js.vercel.app
+Live version:
+https://vercel.com/nimrod-daniel-mayans-projects/nm-promptopia-next-js/7crMxYy71g8jmeZYRNBLfb2wqrt3
 
 Screenshot:
 
